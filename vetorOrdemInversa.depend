@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666729061 source:d:\uns app aleatorio\codeblocks\projetinho\vetorordeminversa\vetorordeminversa\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
